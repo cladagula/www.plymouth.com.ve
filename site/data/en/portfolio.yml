@@ -1,0 +1,75 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Fotos
+  portfolio_item :
+    # portfolio item loop
+    - name : Proyecto PDVSA La Campiña
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["Cctv"]
+      content : Implementación del sistema de CCTV Avigilon a las instalaciones de PDVSA
+      link : "https://imgur.com/a/UfiUf"
+      
+    # portfolio item loop
+    - name : Proyecto Coliseo HCF
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Cctv","Data"]
+      content : Sistema seguridad del Coliseo Playero Hugo Chávez
+      link : "https://imgur.com/a/QkkWl"
+      
+    # portfolio item loop
+    - name : Proyecto PDVSA La Campiña
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["Cctv"]
+      content : Implementación del sistema de CCTV Avigilon a las instalaciones de PDVSA
+      link : "https://imgur.com/a/UfiUf"
+      
+    # portfolio item loop
+    - name : Proyecto PDVSA La Campiña
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["Cctv"]
+      content : Implementación del sistema de CCTV Avigilon a las instalaciones de PDVSA
+      link : "https://imgur.com/a/UfiUf"
+    # portfolio item loop
+    - name : CCTV Proyecto Privado
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["Cctv","Data"]
+      content : Sistema de Circuito cerrado para cliente privado.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Proyecto Coliseo HCF
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["Cctv"]
+      content : Sistema seguridad del Coliseo Playero Hugo Chávez
+      link : "https://imgur.com/a/QkkWl"
+      
+    # portfolio item loop
+    - name : Proyecto Coliseo HCF
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["Cctv"]
+      content : Sistema seguridad del Coliseo Playero Hugo Chávez
+      link : "https://imgur.com/a/QkkWl"
+      
+    # portfolio item loop
+    - name : Proyecto Coliseo HCF
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["Cctv"]
+      content : Sistema seguridad del Coliseo Playero Hugo Chávez
+      link : "https://imgur.com/a/QkkWl"
+      
+    # portfolio item loop
+    - name : Proyecto CCTV+Data+VoIP Campo Carabobo
+      image : images/portfolio/portfolio-9.jpg
+      image_webp : images/portfolio/portfolio-9.webp
+      categories : ["Cctv", "Data","Wifi","Voip"]
+      content : CCTV, Datos, WiFi, VoIP para el Batallon de Honor Campo Carabobo
+      link : "https://imgur.com/a/tkG6g"
