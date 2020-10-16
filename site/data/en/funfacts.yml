@@ -27,4 +27,4 @@ funfacts:
           # counter item loop
     - title : "Accidentes Laborales"
       icon : "ti-info" # themify icon pack : https://themify.me/themify-icons
-      count : ""
+      count : "0"

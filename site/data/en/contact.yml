@@ -8,13 +8,13 @@ contact:
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Av. Venezuela, Edif. Venezuela, Piso 07 Oficina 71, El Rosal, Caracas Venezuela"
+      info : "Av. Venezuela, Edif. Venezuela, Piso 08 Oficina 86, El Rosal, Caracas Venezuela"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Telefono: ‎+58 212-9527446"
+      info : "Telefono: ‎+58 212-9530743"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +58 212-9530743"
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: +58 414-2602406"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@plymouth.com.ve"
